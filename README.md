@@ -1,4 +1,5 @@
 # Azure Event Hubs with Blob Capture using Terraform
+<img width="1500" height="882" alt="AeventHub" src="https://github.com/user-attachments/assets/fff9cc41-bab2-426a-ab97-2b0760733cd2" />
 
 ## Overview
 
